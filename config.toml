@@ -38,4 +38,4 @@ favicon = "favicon.ico"
         [[languages.en.menu.main]]
         identifier = "TomDod Home"
         name = "TomDod"
-        url = "https://tomdod.github.io/foodblog"
+        url = "https://tomdod.github.io/"
