@@ -1,6 +1,6 @@
 baseURL = "https://tomdod.github.io/foodblog"
 languageCode = "en-us"
-theme = "paper"
+theme = "paper_tom"
 favicon = "favicon.ico"
 
   # set all headings to their default size (depending on browser settings)
