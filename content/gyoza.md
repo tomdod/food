@@ -2,7 +2,7 @@
 title: "Gyoza"
 date: 2022-01-27T16:46:27+02:00
 draft: false
-tags: ["main", "japanese"]
+tags: ["main", "japanese", "yum"]
 ---
 
 ### Makes ~24 dumplings
