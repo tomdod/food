@@ -1,5 +1,5 @@
 ---
-title: "Gyoza"
+title: "Gyoza Dumplings"
 date: 2022-01-27T16:46:27+02:00
 draft: false
 tags: ["main", "japanese"]
@@ -15,9 +15,10 @@ tags: ["main", "japanese"]
 - 2 leeks
 - ¼ Chinese cabbage
 - 1 tbsp miso
+- 1 tbsp sesame oil
 - 1 tbsp soy sauce
 - 1 tbsp mirin
-- Gyoza wrappers
+- Gyoza skins
 
 ![Gyoza Dumplings](../gyoza.jpg)
 
