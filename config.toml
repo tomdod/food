@@ -1,4 +1,4 @@
-baseURL = "https://tomdod.github.io/foodblog"
+baseURL = "https://tomdod.github.io/food"
 languageCode = "en-us"
 theme = "paper_tom"
 favicon = "favicon.ico"
