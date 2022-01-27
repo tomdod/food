@@ -11,7 +11,7 @@ tags: ["main", "japanese"]
 - 3 garlic cloves
 - 2 cm ginger
 - 1 carrot
-- 8 mushrooms
+- 8 mushroomss
 - 2 leeks
 - 1/4 Chinese cabbage
 - 1 tbsp miso
