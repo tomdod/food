@@ -1,9 +1,11 @@
 ---
 title: "Tofu Tikka Masala"
-date: 2024-01-07T21:06:27+02:00
+date: 2025-01-07T21:06:27+02:00
 draft: false
 tags: ["main", "indian"]
 ---
+
+![Tofu Tikka Masala](../masala.jpeg)
 
 ### Makes 2-3 portions
 
@@ -25,7 +27,7 @@ tags: ["main", "indian"]
 - Basmati rice (½ cup per person)
 - Chopped fresh coriander
 
-![Tofu Tikka Masala](../masala.jpeg)
+![Tofu Crumbs](../tofucrumbs.jpeg)
 
 1. Finely chop all the vegetables.
 
@@ -45,10 +47,7 @@ tags: ["main", "indian"]
 
 7. Serve with basmati rice and chopped fresh coriander 😊
 
-
-![Tofu Crumbs](../tofucrumbs.jpeg)
-
 > *Notes:* \
-For the rice, allow 0.5 cups dried basmati rice per person.
-Wash the rice well, and place in a pan with 1.5x volume cold water
+For the rice, allow ½ cup basmati rice per person. \
+Wash the rice well, and place in a pan with 1.5x volume cold water. \
 Leave on a low heat with the lid on until the water is evaporated.
