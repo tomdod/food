@@ -37,5 +37,4 @@ tags: ["baking", "banana", "cake"]
 > *Notes:* \
 Modified from BBC goodfood's [Brilliant Banana Loaf](https://www.bbcgoodfood.com/recipes/brilliant-banana-loaf)\
 I added chocolate & walnuts.\
-Use a thick—based metal saucepan, not a non—stick pan.\
 Next time, stick banana chips in the top about 10 mins before it is done.

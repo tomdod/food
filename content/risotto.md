@@ -2,12 +2,12 @@
 title: "Risotto"
 date: 2020-04-28T16:46:27+02:00
 draft: false
-tags: ["main", "rice"]
+tags: ["main", "rice", "italian"]
 ---
 
 ### Makes 2 portions.
-- 1/4 onion
-- 1/3 carrot
+- ¼ onion
+- ⅓ carrot
 - 1 glass wine
 - 8 handfuls rice
 - 1 litre veg stock
@@ -30,5 +30,5 @@ tags: ["main", "rice"]
    Add butter & parmesan, stir in.
 
 > *Notes:* \
-Use a thick—based metal saucepan, not a non—stick pan.\
+Use a thick—based metal saucepan, not a non—stick frying pan.\
 Keep the stock on the hob so it stays hot!
